@@ -43,7 +43,7 @@ Recommended packages (Ubuntu / JetPack environments):
 
 Using CMake (recommended if CMakeLists.txt is provided):
 1. Clone repository:
-   git clone https://github.com/suraj-yalagi/Image-Denoising-on-Jetson-Orin-Using-OpenMP-Acceleration.git
+   git clone (https://github.com/Vireshyb/Image-Denoising-on-Jetson-Orin-Using-OpenMP-Acceleration)
 2. Create and build:
    mkdir -p build
    cd build
